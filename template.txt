@@ -36,3 +36,5 @@ WWRL: https://example.com
 Links to getting licensed in <country>
 https://example.com
 
+Links to relevant legislation:
+https://example.com
