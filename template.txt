@@ -1,0 +1,38 @@
+<Country> <Country callsign prefix> license details.
+
+License levels:
+
+<Level 1>
+Allowed bands:
+40m:  7.150-7.300MHz
+  Modes: CW
+  5W PEP
+20m: 14.100-14.200MHz
+  Modes: All
+  5W PEP
+Link to band plan: http://example.com
+
+Exam:
+  60 question test. 40 correct answers for a pass.
+
+<Level 2>
+Allowed bands:
+40m: 7.000-7.300MHZ
+  Modes: All
+  1500W PEP
+Exam:
+  60 question test. 50 correct answers for a pass.
+
+Cost:
+$xx VE fees per exam session
+$xx for xxx
+
+Renewal term:
+Every xx years/Lifetime.
+
+National Representative Bodies:
+WWRL: https://example.com
+
+Links to getting licensed in <country>
+https://example.com
+
