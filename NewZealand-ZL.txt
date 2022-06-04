@@ -44,38 +44,79 @@ Allowed bands Post probation:
 6M:
 50.000-54.000MHz
   1000W PEP
-  
+2m:
+144-148MHz
+  1000W PEP
+70cm:
+430MHz-440MHz
+  1000W PEP
+33cm:
+915MHz-928MHz
+  25W eirp
+23cm:
+1240-1300MHz
+  1000W PEP
+12cm:
+2396-2450MHz
+  1000W PEP
+
 Link to band plan: https://www.nzart.org.nz/info/band-plan/
 
 Exam:
   60 question test. 40 correct answers for a pass.
-
-<Level 2>
-Allowed bands:
-40m: 7.000-7.300MHZ
-  Modes: All
-  1500W PEP
+  Question pool is publically available.
   
 * Probationary Period of 3 months, requiring 50 contacts.
 5MHz-25MHz not allowed during probationary period/pre 50 contacts.
 Note that the probation period is 3 months regardless if you get 50 contacts before then. 50 contacts still required to be post probation after 3 months.
 
-Exam:
-  60 question test. 40 correct answers for a pass.
-
 Cost:
-$xx VE fees per exam session
-$xx for xxx
+$~25 ARX fees per exam session. Varies by Club or ARX
+No renewal fee, callsign is for life.
 
 Renewal term:
-Every xx years/Lifetime.
+None. Lifetime license.
 
 National Representative Bodies:
-WWRL: https://example.com
+NZART: https://nzart.org.nz
 
-Links to getting licensed in <country>
-https://example.com
+Links to getting licensed in New Zealand:
+https://www.nzart.org.nz/learn/
+Practice exam: 
+https://nzarttrainer.m1m0n.net/exam?rt=1&s=
 
 Links to relevant legislation:
 https://www.rsm.govt.nz/assets/Uploads/pdfs/gazette/c9cc2398c0/amateur-radio-operators-gurl-2017.pdf
 https://gazette.govt.nz/notice/id/2017-go3567
+
+Bands above UHF:
+9cm:
+3300-3410MHz
+  1000W PEP
+5cm:
+5650-5850MHz
+  1000W PEP
+3cm:
+10000-10500MHz:
+  1000W PEP
+1.2cm:
+24000-24250MHz:
+  1000W PEP
+6mm:
+47000-47200MHz
+  1000W PEP
+4mm:
+76000-81000MHz
+  1000W PEP
+2.4mm:
+122250-123000MHz
+  1000W PEP
+2.1mm:
+134000-141000MHz
+  1000W PEP
+1.2mm:
+241000-250000MHz
+  1000W PEP
+1mm-0.3mm
+275000 to 1000000MHz
+  1000W PEP
