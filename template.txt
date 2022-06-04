@@ -38,3 +38,7 @@ https://example.com
 
 Links to relevant legislation:
 https://example.com
+
+Allow bands/conditions above UHF:
+3nm:
+a bajillion MHz - two bajilliom MHz
